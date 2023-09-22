@@ -122,7 +122,7 @@ Los literales son valores constantes que se utilizan directamente en el código 
 
 Las variables en Java se utilizan para almacenar y manipular datos. Debes declarar una variable antes de usarla, especificando su tipo y nombre. Aquí hay algunos ejemplos de declaración de variables en Java:
 
-`` java
+```java
 int numeroEntero = 42;         // Declaración de una variable entera
 double numeroDecimal = 3.14;   // Declaración de una variable de punto flotante
 char caracter = 'A';           // Declaración de una variable de carácter
